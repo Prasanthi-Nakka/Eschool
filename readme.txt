@@ -1,2 +1,3 @@
-Welcome to git hub
+Welcome to git hub Hospital management system
 This is test repo
+  
